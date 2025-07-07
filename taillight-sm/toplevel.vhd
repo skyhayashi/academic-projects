@@ -52,9 +52,9 @@ begin
            L3 => L3,
            L2 => L2,
            L1 => L1,
-           R3 => R3,
+           R1 => R1,
            R2 => R2,
-           R1 => R1
+           R3 => R3
   );
 
   COUNTER_1: counter
