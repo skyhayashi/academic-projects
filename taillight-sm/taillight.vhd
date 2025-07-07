@@ -12,7 +12,7 @@ port(clk    : in std_logic;
      L1     : out std_logic; -- LA
      R1     : out std_logic; -- RA
      R2     : out std_logic; -- RB
-     R3     : out std_logic; -- RC
+     R3     : out std_logic  -- RC
 );
 end taillight;
 
