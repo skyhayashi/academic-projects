@@ -1,1 +1,1 @@
-This project emulates the taillight sequences of a 1965 Ford Thunderbird on an Altera DE2-115 board, using Quartus Prime for development and ModelSim for testing.
+This project emulates the taillight sequences of a 1965 Ford Thunderbird on an Altera DE2-115 board, using Quartus Prime for development and ModelSim for testing. See the provided [documentation](./Documentation.pdf) for the design, ModelSim waveforms, and RTL schematic.
