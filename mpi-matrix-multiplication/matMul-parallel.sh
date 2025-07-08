@@ -6,4 +6,4 @@
 #SBATCH --tasks-per-node=4
 #SBATCH --time=05:00
 
-mpiexec matMul-parallel 2048
+mpiexec matMul-parallel 16
